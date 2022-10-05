@@ -1,1 +1,1 @@
-this is a readme for Week 2 Frontend Task (c) > HTML in-Depth
+this is a readme for zuri Week 2 Frontend Task (c) > HTML in-Depth
